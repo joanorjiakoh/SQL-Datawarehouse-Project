@@ -29,7 +29,7 @@ Develop SQL-Based analytics to deliver detailed insights into:
 
 
 ## LICENSE 
-This Project is license  under the [LICENSE](LICENSE)
+This Project is license  under the [MIT LICENSE](LICENSE)
 
 ## About me 
 MY name is Joan Orjiakoh i am an aspiring data enginner and data analyst. this project is entirely with the guidance of data with baraa  
